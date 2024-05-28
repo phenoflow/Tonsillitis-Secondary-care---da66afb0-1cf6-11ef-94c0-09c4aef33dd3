@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/streptococcal-tonsillitis-secondary-care---secondary.py
+inputModule3:
+  class: File
+  path: python/tonsillitis-secondary-care-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/tonsillitis---secondary.py
+inputModule5:
+  class: File
+  path: python/tonsillitis-secondary-care-organism---secondary.py
+inputModule6:
+  class: File
+  path: python/tonsillitis-secondary-care-gingivostomatitis---secondary.py
+inputModule7:
+  class: File
+  path: python/acute-tonsillitis-secondary-care---secondary.py
+inputModule8:
+  class: File
+  path: python/tonsillitis-secondary-care---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
